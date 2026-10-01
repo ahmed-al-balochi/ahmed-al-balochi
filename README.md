@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://links.tech-ahmed.com">🔗 Links</a> ·
+  <a href="https://links.tech-ahmed.com">🔗 My Links</a> ·
   <a href="https://twitter.com/ahmedal_balochi">𝕏 @ahmedal_balochi</a> ·
   <a href="mailto:tech.albalochi@gmail.com">✉️ Email</a>
 </p>
